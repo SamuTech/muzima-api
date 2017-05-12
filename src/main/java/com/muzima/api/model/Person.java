@@ -15,7 +15,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * TODO: Write brief description about the class here.
+ * Person Entity Bean, defines properties and operations on the Person object
  */
 public class Person extends OpenmrsSearchable {
 
