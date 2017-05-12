@@ -23,7 +23,10 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * TODO: Write brief description about the class here.
+ *
+ * JSON objects processing class.
+ * Class proceses and parses JSON objects into primitive and reference java data types.
+ *
  */
 public class JsonUtils {
 
